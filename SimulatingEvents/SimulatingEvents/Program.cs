@@ -1,4 +1,9 @@
-﻿using System;
+/*
+This code is copyrighted to Iman Helal @2015 Research work
+Information System Department, Faculty of computers and Information System
+Cairo University, Egypt
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
