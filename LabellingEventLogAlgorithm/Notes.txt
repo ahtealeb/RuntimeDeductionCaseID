@@ -1,0 +1,1 @@
+- new confidence level = elimination rule / num of cases 

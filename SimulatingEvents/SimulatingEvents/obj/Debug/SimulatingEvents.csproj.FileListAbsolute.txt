@@ -1,0 +1,6 @@
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\bin\Debug\SimulatingEvents.exe.config
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\bin\Debug\SimulatingEvents.exe
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\bin\Debug\SimulatingEvents.pdb
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\obj\Debug\SimulatingEvents.csprojResolveAssemblyReference.cache
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\obj\Debug\SimulatingEvents.exe
+C:\Iman\My Docs\VS2013-Projects\SimulatingEvents\SimulatingEvents\obj\Debug\SimulatingEvents.pdb
