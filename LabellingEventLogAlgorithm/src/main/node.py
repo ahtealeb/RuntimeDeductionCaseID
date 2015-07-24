@@ -1,5 +1,5 @@
 '''
-This code is copyrighted to Dina Bayomie and Iman Helal @2015 Research work
+This code is copyrighted to Iman Helal @2015 Research work
 Information System Department, Faculty of computers and Information System
 Cairo University, Egypt
 '''
